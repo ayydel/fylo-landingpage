@@ -98,6 +98,14 @@ input {
     padding: 2rem;
 }
 
+.name {
+    font-weight: 700;
+}
+
+.title {
+    font-size: 0.875rem;
+}
+
 .fylo {
     color: var(--accnt-cyan);
     text-decoration: underline;
