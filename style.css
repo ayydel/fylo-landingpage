@@ -92,6 +92,7 @@ input {
     background-color: #fff;
     box-shadow: 0 0 15px 1px var(--lght-gray);
     border-radius: 5px;
+    font-size: 0.875rem;
     width: 65%;
     height: 50%;
     margin-top: 1.5rem;
@@ -103,7 +104,7 @@ input {
 }
 
 .title {
-    font-size: 0.875rem;
+    font-size: 0.75rem;
 }
 
 .fylo {
