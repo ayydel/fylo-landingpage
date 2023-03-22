@@ -94,17 +94,9 @@ input {
     border-radius: 5px;
     font-size: 0.875rem;
     width: 65%;
-    height: 50%;
+    height: 52%;
     margin-top: 1.5rem;
     padding: 2rem;
-}
-
-.name {
-    font-weight: 700;
-}
-
-.title {
-    font-size: 0.75rem;
 }
 
 .fylo {
@@ -119,6 +111,14 @@ input {
 
 .profile {
     margin-top: 1rem;
+}
+
+.name {
+    font-weight: 700;
+}
+
+ .title {
+    font-size: 0.875rem;
 }
 
 .kyle {
